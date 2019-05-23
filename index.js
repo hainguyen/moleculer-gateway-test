@@ -13,7 +13,7 @@
  */
 
 const { ServiceBroker } = require("moleculer");
-
+const _ = require('lodash');
 // ----
 
 const ApiGatewayService = require('moleculer-web');
